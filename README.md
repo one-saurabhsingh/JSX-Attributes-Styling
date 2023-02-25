@@ -1,2 +1,2 @@
-# JSX-Attributes-Styling
+# JSX-Attributes&Styling
 Created with CodeSandbox
